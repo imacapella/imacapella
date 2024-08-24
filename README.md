@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gürkan Karadaş</h1>
+<h1 align="center">Hi, I'm Gürkan</h1>
 <h3 align="center">A Swift Enthusiast & Software Development Student</h3>
 
 - 🌱 I’m currently learning **Swift & SwiftUI**

@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20Visitor!%20👋&reversal=false&section=header&animation=fadeIn&fontAlign=50&fontAlignY=30&fontSize=40" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=imacapella&icon=2&color=7)](https://visitcount.itsvg.in)
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=imacapella&icon=2&color=7)](https://visitcount.itsvg.in" alt="Streak Stats" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,10 +17,19 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/gurkankaradas) 
-[![Mail](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white&logoWidth=30)](mailto:gurkankaradas42@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=30)](https://x.com/acapellaonduty)
+<p align="center">
+  <a href="https://linkedin.com/in/gurkankaradas">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gurkankaradas42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
+  </a>
+  <a href="https://x.com/acapellaonduty">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=30" alt="X" />
+  </a>
+</p>
 
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imacapella&theme=darcula&hide_border=true" alt="Streak Stats" />
